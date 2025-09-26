@@ -6,7 +6,6 @@ import { AdminProfile } from './admin/AdminProfile';
 import { AdminLearning } from './admin/AdminLearning';
 import { AdminMessages } from './admin/AdminMessages';
 import { AdminControl } from './admin/AdminControl';
-import { Footer } from './Footer';
 
 interface AdminDashboardProps {
   user: User;
