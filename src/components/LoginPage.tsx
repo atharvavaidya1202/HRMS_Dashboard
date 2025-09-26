@@ -19,7 +19,7 @@ import {
 import { Badge } from "./ui/badge";
 import { User, UserRole } from "../App";
 import { Brain, Shield, Users, Zap } from "lucide-react";
-import { Footer } from "./Footer";
+
 
 interface LoginPageProps {
   onLogin: (user: User) => void;
