@@ -5,7 +5,7 @@ import { HRAnalytics } from './hr-admin/HRAnalytics';
 import { HRProfile } from './hr-admin/HRProfile';
 import { HRLearning } from './hr-admin/HRLearning';
 import { HRMessages } from './hr-admin/HRMessages';
-import { Footer } from './Footer';
+
 
 interface HRAdminDashboardProps {
   user: User;
