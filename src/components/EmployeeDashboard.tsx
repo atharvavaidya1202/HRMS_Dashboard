@@ -4,7 +4,6 @@ import { EmployeeProfile } from './employee/EmployeeProfile';
 import { EmployeeOverview } from './employee/EmployeeOverview';
 import { EmployeeLearning } from './employee/EmployeeLearning';
 import { EmployeeMessages } from './employee/EmployeeMessages';
-import { Footer } from './Footer';
 
 interface EmployeeDashboardProps {
   user: User;
